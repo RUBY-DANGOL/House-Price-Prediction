@@ -4,6 +4,9 @@ https://github.com/user-attachments/assets/3910d3a8-9fb7-4f84-92d4-16a67a99e055
 
 This project predicts house prices using a trained deep learning model. The application is built using Streamlit for easy interaction with the model.
 
+## Dataset link
+https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction
+
 ## Features
 - Train a house price prediction model using deep learning.
 - Perform inference on new house data.
